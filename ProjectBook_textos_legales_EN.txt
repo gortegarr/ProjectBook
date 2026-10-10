@@ -1,0 +1,61 @@
+PRIVACY POLICY - ProjectBook
+
+Last updated: October 8, 2026 · Software version: 1.0
+
+In short: everything you enter in ProjectBook is stored locally on your device. We do not collect, transmit, sell or share your personal data with anyone. ProjectBook has no user accounts, no ads and no third-party analytics. You can delete your data at any time, inside the app or by uninstalling it.
+
+1. Who we are. ProjectBook ("the App", "we", "us") is an academic management app for students, developed by the ProjectBook project team at the Facultad de Economía y Negocios, Universidad de Chile. This policy applies only to the ProjectBook Android app.
+
+2. Information the App handles. It only handles what you voluntarily enter: subjects, notes and study materials; tasks, calendar events and priorities; study habits, streaks and progress history; settings and virtual companion progress (XP, collectibles). This information is stored in the App's local storage on your device. It is never sent to us or to any server operated by us.
+
+3. Information we do not collect. ProjectBook does not collect or access your location, contacts, camera, microphone, photos or any other personal or sensitive data from your device. The only device information it reads is the current date and time, to show your calendar, deadlines and study streaks correctly. This is used on your device only and is never sent anywhere. We do not ask you to create an account or to provide your name, email address or any other identifier.
+
+4. How data is used and shared. Your data is used only to provide the App's features on your own device. We do not share, sell, rent or transfer your data to third parties (advertisers, analytics providers, data brokers or any other group), because we never receive it. The App does not contain advertising and does not integrate third-party analytics or tracking SDKs.
+
+5. Internet use. ProjectBook works without an internet connection. Its essential functions do not depend on external servers.
+
+6. Permissions. ProjectBook does not require any special device permissions. It does not send notifications, and it does not access your location, contacts, camera, microphone or files. Your entries are saved in the App's private storage. The App reads the device's date and time for its calendar and habit tracking.
+
+7. Data retention and deletion. In the app you can delete subjects, notes, tasks, habits and events at any time using each module's delete options. Uninstalling the App removes all data it stored locally. If your operating system has its own backups (for example, Android backups), copies may be kept according to your device settings; we do not control those backups. Because data lives only on your device, if you lose it, reset it or uninstall the App, we cannot recover your information. We recommend keeping your own backups of anything important.
+
+8. Security. ProjectBook is designed with privacy by design: local processing and storage, with no external servers. The final security of your data also depends on your device: use a screen lock or password, keep your operating system up to date and enable your device's own encryption.
+
+9. Children's privacy. ProjectBook is intended for users aged 16 and over, mainly students. It is not directed to children under 16. Since the App does not collect personal information from anyone, we do not knowingly collect data from children or minors.
+
+10. Your rights. Because we do not hold your data, you remain in full control: you can view, edit and delete it directly in the App at any time. If you have questions about how your information is handled, contact us (see Contact).
+
+11. Changes to this policy. We may update it, for example if the App adds new features. If a future version starts collecting or sharing data, this policy will be updated before that change takes effect.
+
+12. Contact. For privacy or security questions, or to report a vulnerability: email gortegarr@gmail.com · Instagram @projectbook_fenuch.
+
+
+----------------------------------------
+
+
+TERMS OF USE - ProjectBook
+
+Last updated: October 8, 2026 · Version 1.0
+
+1. Acceptance. By installing or using ProjectBook you accept these terms. If you do not agree, do not use the App.
+
+2. What ProjectBook is. It is an academic organization tool (subjects, notes, tasks, calendar, habits and progress tracking) that works locally on your device.
+
+3. Minimum age. The App is intended for users aged 16 and over.
+
+4. License to use. We grant you a personal, limited, non-exclusive, non-transferable and revocable license to use the App on your own devices, for non-commercial purposes. You may not copy, modify, redistribute, sell, decompile or create derivative works of the App, except where the law expressly allows it.
+
+5. Your content and data. Everything you enter is yours and is stored only on your device. You are responsible for that content and for keeping your own backups. If you lose, reset or uninstall, we cannot recover your information.
+
+6. Acceptable use. Use the App only for lawful, personal purposes. Do not try to alter its operation, breach its security or use it to harm others.
+
+7. Intellectual property. The App, its design, its name, the virtual companion (Bookie) and its visual elements belong to the ProjectBook project team. These terms do not transfer any ownership rights to you. Android is a trademark of Google LLC; ProjectBook is not affiliated with or endorsed by Google.
+
+8. No warranties. ProjectBook is a support tool provided "as is" and "as available". We do not guarantee it will run without errors or interruptions. It does not replace your institution's official systems: always verify dates, deadlines and academic requirements through official channels.
+
+9. Limitation of liability. To the extent permitted by applicable law, we are not liable for data loss, indirect damages or consequences arising from using or being unable to use the App. This does not limit any rights the law grants you as a user that cannot be waived.
+
+10. Changes. We may update the App and these terms. The current version is the one shown on this screen, with its update date.
+
+11. Governing law. These terms are governed by the laws of Chile.
+
+12. Contact. Email gortegarr@gmail.com · Instagram @projectbook_fenuch.
