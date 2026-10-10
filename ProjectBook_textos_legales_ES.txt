@@ -1,0 +1,61 @@
+POLÍTICA DE PRIVACIDAD - ProjectBook
+
+Última actualización: 8 de octubre de 2026 · Versión del software: 1.0
+
+En resumen: todo lo que ingresas en ProjectBook se guarda localmente en tu dispositivo. No recopilamos, transmitimos, vendemos ni compartimos tus datos personales con nadie. ProjectBook no tiene cuentas de usuario, anuncios ni analíticas de terceros. Puedes borrar tus datos cuando quieras, dentro de la app o desinstalándola.
+
+1. Quiénes somos. ProjectBook ("la App", "nosotros") es una aplicación de gestión académica para estudiantes, desarrollada por el equipo del proyecto ProjectBook de la Facultad de Economía y Negocios de la Universidad de Chile. Esta política aplica solo a la app ProjectBook para Android.
+
+2. Información que maneja la App. Solo maneja lo que tú ingresas voluntariamente: materias, apuntes y materiales de estudio; tareas, eventos de calendario y prioridades; hábitos de estudio, rachas e historial de progreso; configuraciones y avance del compañero virtual (XP, coleccionables). Esta información se guarda en el almacenamiento local de la App en tu dispositivo. Nunca se envía a nosotros ni a ningún servidor operado por nosotros.
+
+3. Información que no recopilamos. ProjectBook no recopila ni accede a tu ubicación, contactos, cámara, micrófono, fotos ni a ningún otro dato personal o sensible de tu dispositivo. Lo único que lee del dispositivo es la fecha y hora actuales, para mostrar correctamente tu calendario, plazos y rachas de estudio. Ese dato se usa solo en tu dispositivo y nunca se envía a ninguna parte. No te pedimos crear una cuenta ni darnos tu nombre, correo ni ningún otro identificador.
+
+4. Uso y compartición de datos. Tus datos se usan únicamente para ofrecer las funciones de la App en tu propio dispositivo. No compartimos, vendemos, alquilamos ni transferimos tus datos a terceros (anunciantes, proveedores de analítica, corredores de datos u otros), porque nunca los recibimos. La App no contiene publicidad ni integra SDKs de analítica o rastreo de terceros.
+
+5. Uso de internet. ProjectBook funciona sin conexión a internet. Sus funciones esenciales no dependen de servidores externos.
+
+6. Permisos. ProjectBook no requiere permisos especiales del dispositivo. No envía notificaciones y no accede a tu ubicación, contactos, cámara, micrófono ni archivos. Tus registros se guardan en el almacenamiento privado de la App. La App lee la fecha y hora del dispositivo para su calendario y seguimiento de hábitos.
+
+7. Conservación y eliminación. Dentro de la app puedes eliminar materias, apuntes, tareas, hábitos y eventos cuando quieras, con las opciones de eliminación de cada módulo. Al desinstalar la App se elimina todo lo que guardó localmente. Si tu sistema operativo tiene respaldos propios (por ejemplo, copias de seguridad de Android), pueden conservarse copias según la configuración de tu dispositivo; no controlamos esos respaldos. Como los datos viven solo en tu dispositivo, si lo pierdes, lo formateas o desinstalas la App, no podemos recuperar tu información. Te recomendamos mantener respaldos propios de lo importante.
+
+8. Seguridad. ProjectBook está diseñada con privacidad por diseño: procesamiento y almacenamiento local, sin servidores externos. La seguridad final de tus datos también depende de tu dispositivo: usa bloqueo de pantalla o contraseña, mantén actualizado el sistema operativo y activa el cifrado propio del dispositivo.
+
+9. Privacidad de menores. ProjectBook está pensada para personas de 16 años o más, principalmente estudiantes. No está dirigida a menores de 16 años. Como la App no recopila información personal de nadie, no recopilamos conscientemente datos de niños ni menores.
+
+10. Tus derechos. Como no tenemos tus datos, tú mantienes el control total: puedes verlos, editarlos y eliminarlos directamente en la App en cualquier momento. Si tienes dudas sobre cómo se maneja tu información, escríbenos (ver Contacto).
+
+11. Cambios en esta política. Podemos actualizarla, por ejemplo si la App agrega funciones nuevas. Si alguna versión futura empezara a recopilar o compartir datos, esta política se actualizará antes de que ese cambio entre en vigor.
+
+12. Contacto. Para consultas de privacidad o seguridad, o para reportar una vulnerabilidad: correo gortegarr@gmail.com · Instagram @projectbook_fenuch.
+
+
+----------------------------------------
+
+
+TÉRMINOS DE USO - ProjectBook
+
+Última actualización: 8 de octubre de 2026 · Versión 1.0
+
+1. Aceptación. Al instalar o usar ProjectBook aceptas estos términos. Si no estás de acuerdo, no uses la App.
+
+2. Qué es ProjectBook. Es una herramienta de organización académica (materias, apuntes, tareas, calendario, hábitos y seguimiento de progreso) que funciona de forma local en tu dispositivo.
+
+3. Edad mínima. La App está pensada para personas de 16 años o más.
+
+4. Licencia de uso. Te otorgamos una licencia personal, limitada, no exclusiva, no transferible y revocable para usar la App en tus propios dispositivos, sin fines comerciales. No puedes copiar, modificar, redistribuir, vender, descompilar ni crear obras derivadas de la App, salvo que la ley lo permita expresamente.
+
+5. Tu contenido y tus datos. Todo lo que ingresas es tuyo y se guarda solo en tu dispositivo. Tú eres responsable de ese contenido y de mantener respaldos propios. Si pierdes, formateas o desinstalas, no podemos recuperar tu información.
+
+6. Uso aceptable. Usa la App solo para fines lícitos y personales. No intentes alterar su funcionamiento, vulnerar su seguridad ni usarla para perjudicar a otras personas.
+
+7. Propiedad intelectual. La App, su diseño, su nombre, el compañero virtual (Bookie) y sus elementos visuales pertenecen al equipo del proyecto ProjectBook. Estos términos no te transfieren ningún derecho de propiedad sobre ellos. Android es una marca de Google LLC; ProjectBook no está afiliada ni respaldada por Google.
+
+8. Sin garantías. ProjectBook es una herramienta de apoyo y se entrega "tal cual" y "según disponibilidad". No garantizamos que funcione sin errores ni interrupciones. No reemplaza los sistemas oficiales de tu institución: verifica siempre fechas, plazos y requisitos académicos en los canales oficiales.
+
+9. Limitación de responsabilidad. En la medida permitida por la ley aplicable, no somos responsables por pérdida de datos, daños indirectos o consecuencias derivadas del uso de la App o de no poder usarla. Esto no limita derechos que la ley te reconozca como usuario y que no puedan renunciarse.
+
+10. Cambios. Podemos actualizar la App y estos términos. La versión vigente es la que aparece en esta pantalla, con su fecha de actualización.
+
+11. Ley aplicable. Estos términos se rigen por las leyes de Chile.
+
+12. Contacto. Correo gortegarr@gmail.com · Instagram @projectbook_fenuch.
